@@ -1,1 +1,1 @@
-![Alt text](3-tier-vpc-sg.svg)
+![Alt text](3-tier-vpc-sg-bastion-ansible.svg)
