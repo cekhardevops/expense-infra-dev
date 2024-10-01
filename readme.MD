@@ -1,0 +1,1 @@
+![Alt text](3-tier-vpc-sg.svg)
